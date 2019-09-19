@@ -1,6 +1,4 @@
-# Zero-Touch_Network_Slicing
 Zero-touch network is conceived as a next-generation management and operation system that leverages the principles of NFV and SDN in order to fully automated management and operation.
--------------------
 
 #Prerequisites:
 
