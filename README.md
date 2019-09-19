@@ -1,6 +1,6 @@
 Zero-touch network is conceived as a next-generation management and operation system that leverages the principles of NFV and SDN in order to fully automated management and operation.
 
-#Prerequisites:
+# Prerequisites:
 
 Wireless Communication, 5G- Network Slicing, Cloudification, SDN, NFV, Linux, Python, Automation, Cognitive, Intelligent,   Explore-exploit dilemma, Epsilon-greedy, Optimistic Initial Values, Upper Confidence Bound Algorithm (UCB), Bayesian machine Learning (A/B Testing),
 Nonstationary Environments, Markov Decision Process (MDP),  Dynamic Programming (DP), Monte Carlo (MC), Temporal Difference Learning (TD), Neural Networks,
